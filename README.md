@@ -2,6 +2,7 @@
 > A freshsly trained junior developer, filled with ideas and creativity!   
    
 ## About me:
+##### [My portfolio](https://basile-and-code.herokuapp.com/)
 A 25y/o guy that found his passion in coding stuff. Combine this with: sociable, a learning enthousiast, curious, teamplayer, and many more..   
 And maybe you will find i might be a good fit for your team!   
    
