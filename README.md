@@ -9,7 +9,7 @@ And maybe you will find i might be a good fit for your team!
      
      
 # Hygeia 
-[![image](https://user-images.githubusercontent.com/72804463/116433961-47c3e980-a84a-11eb-8582-053db6978c4e.png)](https://github.com/maureenoldyck/hygeia)
+[![image](https://user-images.githubusercontent.com/72804463/116433961-47c3e980-a84a-11eb-8582-053db6978c4e.png)](https://hygeia.netlify.app/)
 
 *WIP*   
 > A social platform directed towards people that experienced, or still experience `mental difficulties/struggling/illness/...`. With different features like:   
