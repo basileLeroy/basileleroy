@@ -6,15 +6,19 @@ A 25y/o guy that found his passion in coding stuff. Combine this with: sociable,
 And maybe you will find i might be a good fit for your team!   
    
 ---   
-   
-### Projects:
-##### [Hygeia](https://github.com/maureenoldyck/hygeia)   
+     
+     
+# Hygeia 
+[![image](https://user-images.githubusercontent.com/72804463/116433961-47c3e980-a84a-11eb-8582-053db6978c4e.png)](https://github.com/maureenoldyck/hygeia)
+
 *WIP*   
 > A social platform directed towards people that experienced, or still experience `mental difficulties/struggling/illness/...`. With different features like:   
 > * Documentation   
 > * Chatrooms to talk about certain subjects   
 > * Emergency contacts
    
-##### [ChatApp](https://github.com/basileLeroy/ChatApp)   
+# Hustle Prime   
+[![image](https://user-images.githubusercontent.com/72804463/116434483-bd2fba00-a84a-11eb-95b6-862ebcf634c8.png)](https://hustle-prime.netlify.app/)
+
 *WIP*   
-> A simple chat platform where you can sign up, create and or join a chatroom to talk to other users.
+> A Game Guide made for the player-community of Hustle Castle
