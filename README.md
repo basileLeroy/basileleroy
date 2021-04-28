@@ -1,5 +1,4 @@
-# Welcome to my GitHub page! 👌
-> A freshsly trained junior developer, filled with ideas and creativity!   
+![image](https://user-images.githubusercontent.com/72804463/116433242-9b820300-a849-11eb-9f3e-1c8c6293cd1f.png) 
    
 ## About me:
 ## [My portfolio](https://basile-and-code.herokuapp.com/)
