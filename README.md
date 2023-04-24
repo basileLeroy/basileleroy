@@ -1,8 +1,3 @@
-<div id="header" align="center" style="border-radius: 50%;">
-  <img src="https://avatars.githubusercontent.com/u/72804463?v=4" id="avatar" width="100" style="border-radius:50%"/>
-</div>
-
-
 ![image](https://user-images.githubusercontent.com/72804463/116433242-9b820300-a849-11eb-9f3e-1c8c6293cd1f.png) 
    
 ## About me:
