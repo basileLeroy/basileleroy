@@ -28,10 +28,12 @@ And maybe you will find I might be a good fit for your team!
 > A learning platform for students at Becode (a training centre for IT related jobs). The platform is build with the Moodle Open Source modules and adapted with custom plugins and needs.
 > * Content creation
 > * Custom plugin for additional actions on creating new users
-> * Custimized Attendance plugin to update and maintain attendances of our learners.
+> * Customized Attendance plugin to update and maintain attendances of our learners
 
 # Hustle Prime
 [![image](./assets/HustlePrime.jpg)](https://hustle-prime.netlify.app/)
 
-*WIP*   
-> A Game Guide made for the player-community of Hustle Castle
+> a Gamer Guide website made for the Hustle Castle game community.The project was eventually dropped before it could be finished, so here is a (not completely finished demo deployment instead).
+> * Complex "bracket" calculations, where you can calculate which level combinations are best for your level
+> * A dynamic Gear suggestion form, to see based on your avatar, which gear is most recommended
+> * Game documentation and recommendations
