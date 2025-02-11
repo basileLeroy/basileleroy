@@ -23,7 +23,7 @@ And maybe you will find I might be a good fit for your team!
 > * Projects/books/thoughts display
 
 # Moodle Learning Platform (Becode) 
-[![image](https://user-images.githubusercontent.com/72804463/116434483-bd2fba00-a84a-11eb-95b6-862ebcf634c8.png)](https://hustle-prime.netlify.app/)
+[![image](./assets/becode-moodle.jpg)](https://moodle.becode.org)
 
 > A learning platform for students at Becode (a training centre for IT related jobs). The platform is build with the Moodle Open Source modules and adapted with custom plugins and needs.
 > * Content creation
