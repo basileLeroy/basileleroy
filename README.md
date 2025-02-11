@@ -34,6 +34,6 @@ And maybe you will find I might be a good fit for your team!
 [![image](./assets/HustlePrime.jpg)](https://hustle-prime.netlify.app/)
 
 > a Gamer Guide website made for the Hustle Castle game community.The project was eventually dropped before it could be finished, so here is a (not completely finished demo deployment instead).
-> * Complex "bracket" calculations, where you can calculate which level combinations are best for your level
+> * Complex "bracket" calculations, where you can calculate which level combinations are best for your team
 > * A dynamic Gear suggestion form, to see based on your avatar, which gear is most recommended
 > * Game documentation and recommendations
